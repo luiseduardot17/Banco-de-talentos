@@ -22,11 +22,7 @@ O objetivo desse desafio é construir um catalogo com Cards de informações sob
 Para instalar o projeto, com o Visual Studio Code, ou outro editor de sua preferência,
 abra o terminal e clone o projeto:
 ``` 
-git clone https://github.com/luiseduardot17/Banco-de-talentos.git
-```
-Certifique-se de estar na Branche correta, utilizando o comando:
-```
-git checkout luis-eduardo-frontend
+git clone https://github.com/luiseduardot17/programa-jedi.git
 ```
 Confirme se esta no diretório correto, utilizando o comando:
 ```
